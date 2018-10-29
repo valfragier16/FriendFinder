@@ -5,15 +5,20 @@ The Friend Finder add (essentially a dating app but for friends) implements frie
 
 The application is implemented using a Nodeand Express servers.
 
-<h3>Installation</h3>
+<h2>Demo</h2>
+<i>Friend Finder</i> is deployed to Heroku. Please check it out <a href="https://friend-finder13.herokuapp.com/">here</a>.
+
+<h2>Installation</h2>
 To install the application follow the instructions below:
 
 <ol>
     <li>git clone git@github.com:valfragier16/FriendFinder.git</li>
     <li>cd FriendFinder</li>
     <li>npm install</li>
-    <li>node server.js</li>
 </ol>
+
+<h2>Run Locally</h2>
+Once you have completed installation, to access the application in your browser, first run <i>node server.js</i> in your terminal within the <i>FriendFinder</i> folder.
 
 If done properly, your terminmal should display the following:
 
