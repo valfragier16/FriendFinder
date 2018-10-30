@@ -1,7 +1,7 @@
 # FriendFinder
 GW Homework #13
 
-The Friend Finder add (essentially a dating app but for friends) implements friend matching based on the user's responses to a ten question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the survey is submitted, an existing user record with the closest data to the current user's responses is found and returned. The closest set of user responses is defined as the set with the lowest absolute difference for all ten questions combined.
+The Friend Finder app (essentially a dating app but for friends) implements friend matching based on the user's responses to a ten question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the survey is submitted, an existing user record with the closest data to the current user's responses is found and returned. The closest set of user responses is defined as the set with the lowest absolute difference for all ten questions combined.
 
 The application is implemented using Node and Express servers.
 
