@@ -35,7 +35,7 @@ var friendList = [
     },
     {
 		name: 'Michelle Obama',
-		photo: 'https://media2.fdncms.com/metrotimes/imager/u/original/15562381/screen_shot_2018-09-13_at_7.55.25_am.png',
+		photo: 'https://media2.fdncms.com/metrotimes/imager/u/blog2x/15562381/screen_shot_2018-09-13_at_7.55.25_am.png',
 		scores: [
 			'1',
 			'5',
