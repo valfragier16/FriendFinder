@@ -1,6 +1,6 @@
 //array that holds all the 'friends' that have taken the survey
 //initialize starting with 'dummy' data
-var friendList = [
+var friendsArray = [
     {
       name: 'Valerie Fragier',
       profilePic: 'https://pbs.twimg.com/profile_images/641658747983630337/qzSMVaJf_400x400.jpg',
@@ -48,7 +48,41 @@ var friendList = [
 			'5',
 			'3'
 		]
+	},
+	{
+		name:"Ahmed",
+		photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+		scores:[
+			'5',
+			'1',
+			'4',
+			'4',
+			'5',
+			'1',
+			'2',
+			'5',
+			'4',
+			'1'
+			]
+	},
+	{
+	name: 'Fluffy',
+	photo: 'https://i.pinimg.com/originals/71/5a/df/715adf04c88cdfe4ec9a7575c606e1ac.jpg',
+	scores: [
+		'2',
+		'4',
+		'1',
+		'1',
+		'1',
+		'1',
+		'1',
+		'2',
+		'1',
+		'5'
+	]
 	}
+
+	
   ];
   
-  module.exports = friendList;
+  module.exports = friendsArray;
