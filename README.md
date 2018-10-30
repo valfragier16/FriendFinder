@@ -25,3 +25,10 @@ If done properly, your terminmal should display the following:
 <img src="app/public/images/terminal.PNG">
 
 The application will now be running locally on PORT, in this case that is port 8080. You can then access it locally from your browser at the URL localhost:PORT, in this case <i>localhost:8080</i>.
+
+
+<h2>Completed Survey</h2>
+
+When you complete the friend survey, your frirend match will be displayed as such:
+
+<img src="app/public/images/sample.png">
