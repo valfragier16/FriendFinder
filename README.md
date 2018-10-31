@@ -29,6 +29,6 @@ The application will now be running locally on PORT, in this case that is port 8
 
 <h2>Completed Survey</h2>
 
-When you complete the friend survey, your frirend match will be displayed as such:
+When you complete the friend survey, your friend match will be displayed as such:
 
 <img src="app/public/images/sample.png">
