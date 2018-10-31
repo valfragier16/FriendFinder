@@ -3,7 +3,7 @@
 var friendsArray = [
     {
       name: 'Valerie Fragier',
-      profilePic: 'https://pbs.twimg.com/profile_images/641658747983630337/qzSMVaJf_400x400.jpg',
+      profilePic: 'https://pmcdeadline2.files.wordpress.com/2017/12/loganbrowning_dlr_7159_ph_dianaragland.jpg?crop=0px%2C240px%2C2586px%2C1734px&resize=446%2C299',
       scores: [
         "5",
         "1",
